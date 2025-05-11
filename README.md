@@ -1,3 +1,3 @@
 # firstrepo
 My first repository on github
-Woner of repo AASHISH 
+Author of repo-AASHISH 
